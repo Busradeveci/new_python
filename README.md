@@ -38,6 +38,3 @@ The Euclidean distance between the points is: 5.00
 
 ## Katkıda Bulunma
 Katkıda bulunmak için bir **fork** oluşturup değişikliklerinizi **pull request** olarak gönderebilirsiniz.
-
-## Lisans
-Bu proje MIT lisansı ile lisanslanmıştır.
