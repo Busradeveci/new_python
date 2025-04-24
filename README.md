@@ -1,34 +1,32 @@
-# Euclidean Distance Calculator
+# 📐 Euclidean Distance Calculator
 
-Bu proje, iki nokta arasındaki Öklidyen mesafeyi hesaplayan basit bir Python programıdır.
+This Python project calculates the Euclidean distance between two points based on the coordinates entered by the user.
 
-## Özellikler
-- Kullanıcıdan iki noktanın koordinatlarını alır
-- Öklidyen mesafeyi hesaplar
-- Kullanıcıya tekrar hesaplama seçeneği sunar
-- Geçersiz girişleri kontrol eder
+## 🚀 Features
 
-## Kurulum
+- User input for coordinates
+- Euclidean distance calculation
+- Invalid input handling
+- Option to recalculate
 
-### Gereksinimler
-- Python 3.x
+## ⚙️ Setup and Usage
 
-### Adımlar
-1. Depoyu klonlayın:
-   ```bash
-   git clone https://github.com/Busradeveci/FastAPI-Project.git
-   cd FastAPI-Project
-   ```
-2. Python dosyasını çalıştırın:
-   ```bash
-   python euclidean_distance.py
-   ```
+1. Clone the repository:
 
-## Kullanım
-Program çalıştırıldığında kullanıcıdan iki noktanın koordinatlarını girmesi istenir. Girilen değerlere göre Öklidyen mesafe hesaplanır ve ekrana yazdırılır.
+    ```bash
+    git clone https://github.com/Busradeveci/new_python.git
+    cd new_python
+    ```
 
-Örnek Kullanım:
-```bash
+2. Run the Python file:
+
+    ```bash
+    python Euclidean\ Distance.py
+    ```
+
+## 🧪 Example Usage
+
+```plaintext
 Enter x1: 3
 Enter y1: 4
 Enter x2: 7
@@ -36,5 +34,11 @@ Enter y2: 1
 The Euclidean distance between the points is: 5.00
 ```
 
-## Katkıda Bulunma
-Katkıda bulunmak için bir **fork** oluşturup değişikliklerinizi **pull request** olarak gönderebilirsiniz.
+## 🤝 Contributing
+
+To contribute:
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature/your-feature`
+3. Make your changes and commit
+4. Push to your branch: `git push origin feature/your-feature`
+5. Create a pull request
